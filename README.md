@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## About me 👋
+Hi this is Srijita !!
+I am currently a B.Tech CSE AI/ML student who is learning web development and looking forward to participate in projects, whether it's front-end, back-end, or full-stack development.  I'm enthusiastic about building responsive and user-friendly web applications and my focus is on continuous learning and staying updated on the latest AI advancements, ensuring that I can apply the best practices and latest methodologies to deliver impactful solutions to real-world problems.
 <!--
 **srijitasinharoy/srijitasinharoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
