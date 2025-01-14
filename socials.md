@@ -1,2 +1,0 @@
-##   Socials :globe_with_meridians:
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?logo=Facebook&logoColor=Blue&style=ShieldStyle" /> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?logo=Instagram&logoColor=Blue&style=ShieldStyle" /> <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=colour&style=ShieldStyle" /> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?logo=TelegramlogoColor=colour&style=ShieldStyle" />
