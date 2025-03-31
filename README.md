@@ -2,18 +2,43 @@
 Hi this is Srijita !!
 I am currently a B.Tech CSE AI/ML student who is learning web development and looking forward to participate in projects, whether it's front-end, back-end, or full-stack development.  I'm enthusiastic about building responsive and user-friendly web applications and my focus is on continuous learning and staying updated on the latest AI advancements, ensuring that I can apply the best practices and latest methodologies to deliver impactful solutions to real-world problems.
 
-## Socials :globe_with_meridians:
-<img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=Blue&style=ShieldStyle" /> <img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?logo=Facebook&logoColor=Blue&style=ShieldStyle" /> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?logo=Instagram&logoColor=Blue&style=ShieldStyle" /> <img alt="Github" src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=Blue&style=ShieldStyle" /> <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-BD081C?logo=Pinterest&logoColor=Blue&style=ShieldStyle" /> 
+## globe_with_meridians: Socials :
+<a href="https://www.linkedin.com/in/srijita-sinha-roy-765831316/">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github,firebase,flutter)](https://skillicons.dev)
+<a href="https://www.instagram.com/srijita_sinharoy/">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100092413056498">
+ <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+
+<br>
+
+### 🧰 Tech stack :
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,vscode,github,firebase,flutter)](https://skillicons.dev)
 ---
 
-## Stats :bar_chart:
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&theme=radical&show_icons=true" />
+### 📊 Stats :
+![](https://github-readme-stats.vercel.app/api?username=srijitasinharoy&theme=radical&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=srijitasinharoy&theme=radical&hide_border=true)
+</div>
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijitasinharoy)](https://github.com/srijitasinharoy/github-readme-stats)
+
+
+<!-- <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&theme=dark&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox">
+</div> -->
+
+---
+
+
 <!--
 **srijitasinharoy/srijitasinharoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
